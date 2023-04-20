@@ -15,4 +15,4 @@ This project was completed as part of UBC's CPSC 304 Intorduction to Relational 
 This was done in a group of 3, including:
 - [Myself](https://github.com/Zenith08)
 - [Ofek](https://github.com/ofekzil)
-- Toname
+- [Toname](https://github.com/evbesho)

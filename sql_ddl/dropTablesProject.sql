@@ -1,0 +1,11 @@
+DROP TABLE PatronPlays;
+DROP TABLE CasinoServes;
+DROP TABLE GameSession2;
+DROP TABLE GameSession1;
+DROP TABLE Patron;
+DROP TABLE Party;
+DROP TABLE Dealer;
+DROP TABLE Game;
+DROP TABLE CasinoTable;
+DROP TABLE Room;
+DROP TABLE CasinoBranch;

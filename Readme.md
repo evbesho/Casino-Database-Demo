@@ -10,5 +10,9 @@ game sessions where a patron plays against players or the house and their total 
 # The ER Diagram:
 ![ER Diagram](/docs/er-diagram.png)
 
-# Tasks To Do
-Will be included in the Milestone 3 PDF in the PDF Submissions folder.
+# Credits
+This project was completed as part of UBC's CPSC 304 Intorduction to Relational Databases. Class deliverables have been scrubbed for privacy reasons.
+This was done in a group of 3, including:
+- Myself
+- Ofek
+- Toname

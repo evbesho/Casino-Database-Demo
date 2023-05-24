@@ -1,0 +1,112 @@
+html{
+    background-image: linear-gradient(to bottom right, #020e26, #160020, #111111);
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #dddddd;
+}
+
+h1{
+    padding: 0;
+    font-size: 60px;
+    color: black;
+    text-shadow: -1px -1px 0 #F7D214, 1px -1px 0 #F7D214, -1px 1px 0 #F7D214, 1px 1px 0 #F7D214;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+h3{
+    display: block;
+    color: #F7D214;
+    font-size: 25px;
+    text-shadow: -1px -1px 0 #583E23, 1px -1px 0 #583E23, -1px 1px 0 #583E23, 1px 1px 0 #583E23;
+    font-family: 'Playfair Display', serif;
+}
+
+.button_h {
+    height: 120px;
+    width: 350px;
+    color: #dddddd;
+    background-color: #080808;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #F7D214;
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 550;
+}
+
+.button_h:hover {
+    background-color: #dddddd;
+    color: #583E23;
+}
+
+.button {
+    height: 50px;
+    min-width: 70px;
+    width: fit-content;
+    color: #dddddd;
+    background-color: #080808;
+    border-width: thin;
+    border-style: solid;
+    border-color: #F7D214;
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    font-weight: 25;
+}
+
+.button:hover {
+    background-color: #dddddd;
+    color: #583E23;
+}
+
+.input_field {
+    background-color: #121212;
+    color: #F7D214;
+    border-width: thin;
+    border-style: solid;
+    border-color: #dddddd;
+    width: 500px;
+    height: 50px;
+    padding: 7px;
+}
+
+form {
+    padding: 10px;
+    border-color: #dddddd;
+    border-style: solid;
+    border-width: thin;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    text-align: left;
+    font-size: 25px;
+}
+
+table {
+    padding: 10px;
+    border-color: #dddddd;
+    border-style: solid;
+    border-width: thin;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    text-align: center;
+    font-size: 25px;
+}
+
+.home_form, .foot {
+    height: fit-content;
+    width: fit-content;
+    min-height: 10px;
+    min-width: 10px;
+    text-align: center;
+    border-width: 0px;
+    display: inline-block;
+    padding: 5px;
+}
